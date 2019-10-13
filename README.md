@@ -64,7 +64,7 @@ The above function will check for the existing directory for the same name we de
 
 # Organizing:
 Following is the code for Python Lazy Junk Files Organizer. It will organize everything in appropriate folder in a single go and remove empty directories.
-[click below]()
+[click below](https://github.com/TeAmP0is0N/Junk-File-Organizer/blob/master/orgjunk.py)
 
 Save the above script as orgjunk.py. Gor example you want to organize files at desktop then copy and paste the orgjunk.py at Desktop and run.
 
